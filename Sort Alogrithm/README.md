@@ -1,11 +1,11 @@
 # Data-Structure
-Some Algorithm on Data Structure Book (Yan Weiming)
-Sort Algorithm
-Include:
-bubble sort
-fast sort
-heap sort
-insertion sort
-Shell sort
-select sort
-merge sort
+Some Algorithm on Data Structure Book (Yan Weiming)<br>
+Sort Algorithm<br>
+Include:<br>
+bubble sort<br>
+fast sort<br>
+heap sort<br>
+insertion sort<br>
+Shell sort<br>
+select sort<br>
+merge sort<br>
